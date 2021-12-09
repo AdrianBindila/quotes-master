@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quotes Master</string>
+    <string name="refresh">Refresh</string>
+    <string name="quote">Hello !</string>
+    <string name="avatar">Avatar</string>
+</resources>

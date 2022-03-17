@@ -7,6 +7,10 @@ A random quote generator for your Android phone!
 2. Simple and intuitive design
 3. Only one button!
 
-<img src="Seneca.png" alt="Seneca">
-<img src="Epictetus.png" alt="Epictetus">
-<img src="Marcus Aurelius.png" alt="Marcus Aurelius">
+<table>
+<tr>
+<td><img src="Seneca.png" alt="Seneca" width = "100%"></td>
+<td><img src="Epictetus.png" alt="Epictetus" width = "100%"></td>
+<td><img src="Marcus Aurelius.png" alt="Marcus Aurelius" width = "100%"></td>
+</tr>
+</table>
